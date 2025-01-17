@@ -20,7 +20,7 @@ to strike the paper (through an inked ribbon) to make a letter.
 The letter would always hit the center of the typewriter, and the roller
 assembly moved by one letter, so that new letters appeared to the right.
 
-![manual typewriter as shown from above](typewriter (1).jpg)
+![manual typewriter as shown from above](typewriter.jpg)
 
 [image from Pexels, cc0](https://www.pexels.com/)
 
